@@ -1,2 +1,3 @@
 Fichero c.txt
 Algo
+Lo que quieras
