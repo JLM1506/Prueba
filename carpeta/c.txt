@@ -1,4 +1,4 @@
 Fichero c.txt
 Algo
 Lo que quieras
-Una nueva línea
+
